@@ -1,0 +1,48 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+ main {
+  width: 400px;
+  height: 70vh;
+  background-color: #b2ebf2;
+  border-radius: 50px;
+  display: grid;
+  gap: 10px;
+  align-content: center;
+  justify-items: center;
+  
+ 
+ }
+
+ .visor {
+  width: 255px;
+  height: 11vh;
+  background-color: #ffffff;
+  padding: 4px;
+ }
+
+ .boton {
+  width: 60px;
+  height: 8vh;
+  margin: 1px 4px 4px 4px;
+  background-color: #e0f7fa;
+  color: #26a69a;
+ }
+
+ .operacion {
+  text-align: right;
+  display: block;
+  color: #000000;
+  font-size: 5vh;
+ }
+
+ .total {
+  text-align: right;
+  display: block;
+  color: #808d9e;
+  font-size: 3vh;
+ }
